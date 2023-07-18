@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\bin\Debug\net6.0\CSharpHW2.exe
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\bin\Debug\net6.0\CSharpHW2.deps.json
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\bin\Debug\net6.0\CSharpHW2.runtimeconfig.json
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\bin\Debug\net6.0\CSharpHW2.dll
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\bin\Debug\net6.0\CSharpHW2.pdb
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\obj\Debug\net6.0\CSharpHW2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\obj\Debug\net6.0\CSharpHW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\obj\Debug\net6.0\CSharpHW2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\obj\Debug\net6.0\CSharpHW2.AssemblyInfo.cs
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\obj\Debug\net6.0\CSharpHW2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\obj\Debug\net6.0\CSharpHW2.dll
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\obj\Debug\net6.0\refint\CSharpHW2.dll
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\obj\Debug\net6.0\CSharpHW2.pdb
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\obj\Debug\net6.0\CSharpHW2.genruntimeconfig.cache
+C:\Users\User\Desktop\C# P236\CSharpHW2\CSharpHW2\obj\Debug\net6.0\ref\CSharpHW2.dll
